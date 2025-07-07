@@ -33,7 +33,7 @@ ml_health_predictor/
 ├── Home.py # Main app landing page
 ├── pages/
 │ ├── Liver Cirrhosis.py # Liver Cirrhosis prediction page
-│ └── CKD.py # CKD prediction page
+│ └── Chronic Kidney disease.py # CKD prediction page
 ├── models/
 │ ├── cirrhosis_model.pkl
 │ ├── ckd_model.pkl
