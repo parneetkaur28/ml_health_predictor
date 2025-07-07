@@ -30,16 +30,27 @@ Models and scalers are stored in the `/models/` directory and loaded using `jobl
 
 ## 📁 Project Structure
 ml_health_predictor/
+
 ├── Home.py # Main app landing page
+
 ├── pages/
+
 │ ├── Liver Cirrhosis.py # Liver Cirrhosis prediction page
+
 │ └── Chronic Kidney disease.py # CKD prediction page
+
 ├── models/
+
 │ ├── cirrhosis_model.pkl
+
 │ ├── ckd_model.pkl
+
 │ ├── scaler.pkl
+
 │ └── poly.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 
